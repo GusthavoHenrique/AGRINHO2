@@ -35,6 +35,12 @@ body {
     margin-left: 10px;
     margin-right: 10px;
   }
+
+  h2 {
+      text-align: left;
+      font-size: 2em;
+      padding-top: 30px;
+  }
   
   .cabecalho {
     background-image: linear-gradient(to bottom, var(--cor3), var(--cor6));
